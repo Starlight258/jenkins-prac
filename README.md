@@ -1,4 +1,4 @@
 # jenkins prac
 using docker, ngrok
 
-- webhook
+- pr builder: using github webhook
